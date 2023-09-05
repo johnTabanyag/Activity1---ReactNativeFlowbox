@@ -7,7 +7,7 @@ export default function App() {
       <View style={styles.profile}>
         <Image
           style={styles.image}
-          source={require("./images/hazel.jpg")} // static image
+          source={require("./images/john.jpg")} // static image
         />
         <Text style={styles.name}>Hazel Mae Luayon</Text>
         <Text style={styles.course}>Information Technology 3</Text>
